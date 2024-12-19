@@ -1,0 +1,24 @@
+create database backendsemplicissimo;
+
+INSERT INTO person (birth_date, first_name, last_name)
+VALUES
+  ('1985-03-15', 'Marco', 'Rossi'),
+  ('1990-11-10', 'Luca', 'Bianchi'),
+  ('1978-07-22', 'Giulia', 'Ferrari'),
+  ('1982-12-05', 'Francesca', 'Esposito'),
+  ('1995-04-19', 'Matteo', 'Ricci'),
+  ('1987-09-02', 'Simone', 'Bruno'),
+  ('1992-01-28', 'Chiara', 'Greco'),
+  ('1983-05-13', 'Elisa', 'Mariani'),
+  ('1997-08-30', 'Davide', 'Galli'),
+  ('1989-03-09', 'Valentina', 'Conti'),
+  ('1976-10-16', 'Federico', 'De Luca'),
+  ('1981-02-23', 'Paola', 'Coppola'),
+  ('1993-06-11', 'Andrea', 'Romano'),
+  ('1979-09-07', 'Elena', 'Russo'),
+  ('1986-11-25', 'Alessandro', 'Lombardi'),
+  ('1991-01-17', 'Sara', 'Costa'),
+  ('1984-07-04', 'Giorgio', 'Leone'),
+  ('1998-02-14', 'Anna', 'Giordano'),
+  ('1988-10-03', 'Stefania', 'Gatti'),
+  ('1980-12-22', 'Emanuele', 'Ferri');
